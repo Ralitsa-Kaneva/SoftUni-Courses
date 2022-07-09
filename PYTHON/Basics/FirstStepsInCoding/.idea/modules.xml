@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/ConditionalStatements/.idea/ConditionalStatements.iml" filepath="$PROJECT_DIR$/../pythonProject/ConditionalStatements/.idea/ConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConditionalStatementsAdvanced/.idea/ConditionalStatementsAdvanced.iml" filepath="$PROJECT_DIR$/../ConditionalStatementsAdvanced/.idea/ConditionalStatementsAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ExamPreparation/.idea/ExamPreparation.iml" filepath="$PROJECT_DIR$/../ExamPreparation/.idea/ExamPreparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirstStepsInCoding.iml" filepath="$PROJECT_DIR$/.idea/FirstStepsInCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ForLoops/.idea/ForLoops.iml" filepath="$PROJECT_DIR$/../ForLoops/.idea/ForLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Python Fundamentals/Projects/Fundamentals/.idea/Fundamentals.iml" filepath="$PROJECT_DIR$/../../../Python Fundamentals/Projects/Fundamentals/.idea/Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ICB/.idea/ICB.iml" filepath="$PROJECT_DIR$/../ICB/.idea/ICB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PreExam15.08/.idea/PreExam15.08.iml" filepath="$PROJECT_DIR$/../PreExam15.08/.idea/PreExam15.08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Python/Python_Projects/.idea/Python_Projects.iml" filepath="$PROJECT_DIR$/../../../Python/Python_Projects/.idea/Python_Projects.iml" />
+    </modules>
+  </component>
+</project>
